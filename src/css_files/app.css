@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* style for body */
+.App {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* style for card component */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 40vh;
+  width: 30vw;
+  background-color: aqua;
+  border-radius: 5px;
+  box-shadow: 0 10px 20px red;
+}
+
+/* styling for h3 */
+
+h3 {
+  text-align: center;
+  margin: 20px;
+}
+
+h4 {
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+/* style for  */
+select {
+  width: 60%;
+  padding: 5px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+}
