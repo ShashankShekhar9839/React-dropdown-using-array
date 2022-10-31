@@ -1,3 +1,8 @@
+
+# It is basic react app 
+
+In this project a select element is created with different options and that options are stored in an array in the functional component.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
